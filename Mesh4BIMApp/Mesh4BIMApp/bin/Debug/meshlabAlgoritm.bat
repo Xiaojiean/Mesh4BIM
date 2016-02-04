@@ -1,0 +1,1 @@
+"C:\Program Files\VCG\MeshLab\meshlabserver.exe" -i "C:\Users\lgorosito\Desktop\TEMP\GoroPointCloud\SW29.ply" -o "C:\Users\lgorosito\Desktop\TEMP\GoroPointCloud\SW29.dxf" -s "nothing.mlx" -om vc fq wn
