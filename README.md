@@ -18,7 +18,7 @@ It is proposed to process the Point Cloud’s dataset and turn it into polygon m
 
 The processing of Point Clouds is performed with the MeshLab (free and open source) software, using different sampling and reconstruction algorithms, using various automatic scripts prepared by the author of this work.
 
-To prevent construction professionals from having to process Point Clouds with complex algorithms and repeated procedures, it created an Add-In for Autodesk Revit 2016 that performs all processes automatically in the background. This Add-In is called Mesh4BIM.
+To prevent construction professionals from having to process Point Clouds with complex algorithms and repeated procedures, it created an Application in C# that performs all processes automatically in the background. This App is called Mesh4BIM.
 
 After processing Point Clouds, polygon meshes are obtained, as files in DXF format, with the following benefits:
 
